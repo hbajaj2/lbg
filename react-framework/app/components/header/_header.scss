@@ -1,0 +1,14 @@
+.header {
+	background: $brand-primary;
+	padding: $pad;
+
+	nav {
+		ul {
+			list-style: none;
+
+			a {
+				color: #fee;
+			}
+		}
+	}
+}
